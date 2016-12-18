@@ -1,2 +1,0 @@
-dec={ 'google':'https://www.google.com','google_search':"q",'search_button':"btnK",'sign up button':"btn-primary-wide"
-,'user_login_name':'user_login','user_password':'user_password','user_name':'user_name','user_email':'user_email','birth_day':'date_day','birth_month':'date_month','birth_year':'date_year','user_gender':'user_gender_id','user_language':'user_language_code','submit_button':'btn-primary-wide','log_in_button':"Log in",'username':"inputForm"}
