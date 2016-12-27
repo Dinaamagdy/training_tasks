@@ -5,7 +5,7 @@ class links_class:
 
     history_all=[] #class member variable will hold all links
     all_links={}   #class member dictionary will use it to stor all links good or not
-
+    #tryyyyy that 
     def __init__(self, url):
         self.url = url
         #global history_all
